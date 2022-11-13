@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hasrh Raj
+- 👋 Hi, I’m Harsh Raj
 - 👀 I’m interested in ...Data science
 - 🌱 I’m currently learning ... Everything related ot data
 - 💞️ I’m looking to collaborate on ... how to use git for collaboration at same time
